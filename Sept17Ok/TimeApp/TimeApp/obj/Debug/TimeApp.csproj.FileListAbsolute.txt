@@ -1,0 +1,10 @@
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\bin\Debug\TimeApp.exe.config
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\bin\Debug\TimeApp.exe
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\bin\Debug\TimeApp.pdb
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.csprojAssemblyReference.cache
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.Form1.resources
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.Properties.Resources.resources
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.csproj.GenerateResource.cache
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.csproj.CoreCompileInputs.cache
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.exe
+C:\Users\luke.tollefson.AD.000.001.002\Documents\TimeApp\TimeApp\obj\Debug\TimeApp.pdb

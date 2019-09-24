@@ -1,0 +1,9 @@
+C:\Users\luke.tollefson\Documents\FilesApp\September3\bin\Debug\September3.exe.config
+C:\Users\luke.tollefson\Documents\FilesApp\September3\bin\Debug\September3.exe
+C:\Users\luke.tollefson\Documents\FilesApp\September3\bin\Debug\September3.pdb
+C:\Users\luke.tollefson\Documents\FilesApp\September3\obj\Debug\September3.Form1.resources
+C:\Users\luke.tollefson\Documents\FilesApp\September3\obj\Debug\September3.Properties.Resources.resources
+C:\Users\luke.tollefson\Documents\FilesApp\September3\obj\Debug\September3.csproj.GenerateResource.cache
+C:\Users\luke.tollefson\Documents\FilesApp\September3\obj\Debug\September3.csproj.CoreCompileInputs.cache
+C:\Users\luke.tollefson\Documents\FilesApp\September3\obj\Debug\September3.exe
+C:\Users\luke.tollefson\Documents\FilesApp\September3\obj\Debug\September3.pdb

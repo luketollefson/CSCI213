@@ -1,0 +1,9 @@
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
+C:\Users\luke.tollefson.AD.000\Documents\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources

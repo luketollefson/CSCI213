@@ -1,0 +1,12 @@
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\bin\Debug\FilesApp.exe.config
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\bin\Debug\FilesApp.exe
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\bin\Debug\FilesApp.pdb
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.csprojAssemblyReference.cache
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.Properties.Resources.resources
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.GenerateResource.cache
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.CoreCompileInputs.cache
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.exe
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.pdb
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.Form1.resources
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.Form2.resources
+C:\Users\luke.tollefson\Documents\FilesApp\FilesApp\obj\Debug\FilesApp.Form3.resources

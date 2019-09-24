@@ -1,0 +1,9 @@
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\bin\Debug\EmplApp.exe.config
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\bin\Debug\EmplApp.exe
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\bin\Debug\EmplApp.pdb
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\obj\Debug\EmplApp.Properties.Resources.resources
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\obj\Debug\EmplApp.csproj.GenerateResource.cache
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\obj\Debug\EmplApp.csproj.CoreCompileInputs.cache
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\obj\Debug\EmplApp.exe
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\obj\Debug\EmplApp.pdb
+C:\Users\luke.tollefson.AD.000.001.002.003\source\repos\EmplApp\EmplApp\obj\Debug\EmplApp.Form1.resources
